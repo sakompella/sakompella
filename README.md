@@ -1,58 +1,69 @@
 # Aditya Kompella
 
-Sophomore Computer Science student at Northeastern University with a passion for systems programming, embedded development, and building practical tools. With approximately 5 years of programming experience, I specialize in low-level systems and creating efficient, well-designed software.
+Hello! I'm a Sophomore at Computer Science student at Northeastern University, with a passion for systems programming, embedded development, artificial intelligence, and building practical tools. With 5 years of programming experience under my belt, I specialize in low-level systems and creating efficient, well-designed software.
 
 ---
-
 
 ## Technical Skills
 
-**Languages**  
-Rust / Java / Python / C / C++ / JavaScript / TypeScript / Bash / SQL / Nix / LaTeX
+**Languages**: Rust / Python / JavaScript / TypeScript / SQL / C / C++ / Bash / Java / Nix
 
-**Frameworks & Libraries**  
-React / Svelte / Spring / Scikit-learn / OpenCV
+**Frameworks & Libraries**: Scikit-learn / Pandas / NumPy / OpenCV / React / Svelte / Spring Boot / FastAPI / Flask
 
-**Technologies**  
-Git / Docker / Kubernetes / PostgreSQL / SQLite / Linux / Renode / systemd
+**Technologies**: Git / Docker / AWS Lambda / PostgreSQL / SQLite / Linux / Renode
 
 ---
 
-## Current Working on ...
+## Currently Working On
 
-**Firmware & Application Development** | Northeastern Electric Racing
+**Firmware & Application Engineer** | Northeastern Satellite Laboratory
 
-**Data Science Research** | Infinite Sum Modeling
+Improving star-tracking on a 2U small-satellite (launches Aug 2026) using computer vision, and building CI/CD with real hardware.
 
-**ChessVision** | Personal Project | 🚧 WIP 🚧
+**Fullstack / Firmware Software Engineer** | Northeastern Electric Racing
+
+Collaborating on a ReactJS dashboard with C sensor integration and Rust middleware for real-time telemetry monitoring.
+
+**Research Assistant & Data Science Internship** | Infinite Sum Modeling
+
+Producing comparative analysis reports and statistical models using GTAP to deliver strategic recommendations for clients.
+
+**ChessVision**
+
+Building chess transcription system using OpenCV to detect board state and convert gameplay into standard algebraic notation for game analysis, for use for players or tournament managers.
 
 ---
 
 ## Featured Projects
 
-### [AntiDoxx](https://github.com/BivanPrajapati/BostonHacks2025)
+### [BrainViz](https://github.com/sakompella/brainstorm-hackathon)
 
-**BostonHacks | October 2025**
+**BrainStorm 2026 Hackathon | January 2026** — Python, FastAPI, Scikit-Learn, JavaScript, WebSocket
 
-Privacy web app that detects and censors personal identifiable information in text or images using a combination of Google Gemini's visual API and OCR scanning and parsing.
+Real-time surgical visualization tool that processes neural data input at 500 Hz to guide neurosurgeons in positioning electrode arrays during brain surgery, using Scikit-learn and an ML signal processing pipeline over websockets. Won **3rd place** in track.
 
----
+### [AntiDoxx](https://github.com/sakompella/AntiDoxx)
 
-## Interests
+**BostonHacks 2025 | October 2025** — Spring, Java, React, JavaScript
 
-Embedded Programming / Artificial Intelligence / Internet of Things
+Privacy web app that detects and censors personal identifiable information in text or images using Google Gemini's visual API and custom OCR scanning.
 
 ---
 
 ## Contact
 
-**Email:** kompella.sa [at] northeastern.edu>  
-**LinkedIn:** [linkedin.com/in/sakompella](https://linkedin.com/in/sakompella)  
-**Location:** Boston, MA or Seattle, WA
+**Email:** kompella.sa [at] northeastern.edu
 
-**Availability:** January – August 2026 for co-op/internship opportunities
+**LinkedIn:** [linkedin.com/in/sakompella](https://www.linkedin.com/in/sakompella)
+
+**Location:** Boston, MA
+
+**Availability:** May – December 2026 for co-op/internship opportunities
 
 ---
 
 _BS in Computer Science, Concentration in Artificial Intelligence_
+
 _Northeastern University, Class of 2028_
+
+**Coursework:** Distributed Systems, Graduate Algorithms, Database Design, Computer Systems, Object-Oriented Development, Foundations of Data Science, Foundations of Cybersecurity, Probability and Statistics, Calculus 1/2
